@@ -1,6 +1,6 @@
 # Turbo-Tetris
 
-A small game I made back in school
+A small game I made back in school when we had Turbo C++
 
 ![Main](Screenshots/MainMenu.png)
 
